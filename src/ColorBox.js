@@ -34,9 +34,6 @@ class ColorBox extends Component {
 
   }
 
-
-  
-
 }
 
 export default ColorBox;
